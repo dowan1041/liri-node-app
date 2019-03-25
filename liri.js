@@ -12,8 +12,6 @@ var spotify = new Spotify({
     id: '08d81bf62f5d40f89cba8cdf6c99a4bb',
     secret: '6da021356dc14318a6eb79a2b2ef0122'
 });
-// var omdb = require('omdb');
-// var bandInTown = require('bit_js');
 
 // User Input
 var search = process.argv[2];
@@ -133,7 +131,7 @@ function movieSearch(term) {
             + "Title: " + movies.Title + "\n" 
             + "Released Year: " + movies.Year + "\n" 
             + "IMDB Rating: " + movies.imdbRating + "\n" 
-            // + "Rotten Tomatoes Rating: " + movies. + "\n"
+            + "Rotten Tomatoes Rating: " + movies.Ratings[1].Value + "\n"
             + "Produced Country: " + movies.Country + "\n"
             + "Langueage Movie: " + movies.Language + "\n"
             + "Plot: " + movies.Plot + "\n"
@@ -141,6 +139,7 @@ function movieSearch(term) {
             + divider;
             // console.log(movies);
             console.log(movieResult);
+            console.log(movies);
             fs.appendFile("log.txt", movieResult, (err) => {
                 if (err) throw err;
                 console.log('The "data to append" was appended to file!');

@@ -13,8 +13,6 @@ The command is one of followings.
  * movie-this
  * do-what-it-says
 
-https://drive.google.com/file/d/1hnb5O3tGs5aVzb8oEw0tltFMLTq8Wkar/view - automatic!
-
 [Demonstration Video](https://drive.google.com/file/d/1hnb5O3tGs5aVzb8oEw0tltFMLTq8Wkar/view)
 
 Following Images show how to use this app.
