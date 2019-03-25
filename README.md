@@ -8,10 +8,10 @@ You type "node liri command yourSearch" from your terminal.
 
 The command is one of followings.
 
- concert-this
- spotify-this-song
- movie-this
- do-what-it-says
+ concert-this/
+ spotify-this-song/
+ movie-this/
+ do-what-it-says/
 
 ![concert-this](/images/concertthis1.png)
 ![concert-this](/images/concertthis2.png)
