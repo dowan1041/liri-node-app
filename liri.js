@@ -55,7 +55,7 @@ function concertSearch(term) {
             // console.log(concerts[1].venue.name);
             // console.log(concerts[1].venue.city);
             // console.log(concerts[1].venue.country);
-            for (var i = 0; i < concerts.length; i++) {
+            for (var i = 0; i < 10; i++) {
                 var concertResult = divider + "\n"
                 + "------@@@@@ Concert Information @@@@@------" + "\n\n"
                 + "Result #" + parseInt(i+1) + "\n" 
@@ -72,7 +72,6 @@ function concertSearch(term) {
         } else {
             console.log("Error occurred.");
         }
-        
     });
 };
 
