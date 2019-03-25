@@ -2143,3 +2143,356 @@ Preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca6563
 Album: Covers Part IV
 
 ---------------------------------------------
+
+---------------------------------------------
+
+------@@@@@ Concert Information @@@@@------
+
+Result #1
+Name of the venue: Capitol One Arena
+Venue Location: Washington, United States
+Date of the Event: 03/25/2019
+
+---------------------------------------------
+
+---------------------------------------------
+
+------@@@@@ Concert Information @@@@@------
+
+Result #2
+Name of the venue: Wells Fargo Center
+Venue Location: Philadelphia, United States
+Date of the Event: 03/26/2019
+
+---------------------------------------------
+
+---------------------------------------------
+
+------@@@@@ Concert Information @@@@@------
+
+Result #3
+Name of the venue: Quicken Loans Arena
+Venue Location: Cleveland, United States
+Date of the Event: 03/28/2019
+
+---------------------------------------------
+
+---------------------------------------------
+
+------@@@@@ Concert Information @@@@@------
+
+Result #5
+Name of the venue: Bell Centre
+Venue Location: Montréal, Canada
+Date of the Event: 04/01/2019
+
+---------------------------------------------
+
+---------------------------------------------
+
+------@@@@@ Concert Information @@@@@------
+
+Result #8
+Name of the venue: Coachella Valley Music and Arts Festival
+Venue Location: Indio, United States
+Date of the Event: 04/14/2019
+
+---------------------------------------------
+
+---------------------------------------------
+
+------@@@@@ Concert Information @@@@@------
+
+Result #9
+Name of the venue: Coachella Valley Music and Arts Festival
+Venue Location: Indio, United States
+Date of the Event: 04/21/2019
+
+---------------------------------------------
+
+---------------------------------------------
+
+------@@@@@ Concert Information @@@@@------
+
+Result #10
+Name of the venue: Rogers Place
+Venue Location: Edmonton, Canada
+Date of the Event: 04/25/2019
+
+---------------------------------------------
+
+---------------------------------------------
+
+------@@@@@ Concert Information @@@@@------
+
+Result #4
+Name of the venue: Mohegan Sun Arena
+Venue Location: Uncasville, United States
+Date of the Event: 03/30/2019
+
+---------------------------------------------
+
+---------------------------------------------
+
+------@@@@@ Concert Information @@@@@------
+
+Result #6
+Name of the venue: Scotiabank Arena
+Venue Location: Toronto, Canada
+Date of the Event: 04/03/2019
+
+---------------------------------------------
+
+---------------------------------------------
+
+------@@@@@ Concert Information @@@@@------
+
+Result #7
+Name of the venue: Little Caesars Arena
+Venue Location: Detroit, United States
+Date of the Event: 04/05/2019
+
+---------------------------------------------
+
+---------------------------------------------
+
+------@@@@@ Concert Information @@@@@------
+
+Result #1
+Name of the venue: Capitol One Arena
+Venue Location: Washington, United States
+Date of the Event: 03/25/2019
+
+---------------------------------------------
+
+---------------------------------------------
+
+------@@@@@ Concert Information @@@@@------
+
+Result #2
+Name of the venue: Wells Fargo Center
+Venue Location: Philadelphia, United States
+Date of the Event: 03/26/2019
+
+---------------------------------------------
+
+---------------------------------------------
+
+------@@@@@ Concert Information @@@@@------
+
+Result #3
+Name of the venue: Quicken Loans Arena
+Venue Location: Cleveland, United States
+Date of the Event: 03/28/2019
+
+---------------------------------------------
+
+---------------------------------------------
+
+------@@@@@ Concert Information @@@@@------
+
+Result #4
+Name of the venue: Mohegan Sun Arena
+Venue Location: Uncasville, United States
+Date of the Event: 03/30/2019
+
+---------------------------------------------
+
+---------------------------------------------
+
+------@@@@@ Concert Information @@@@@------
+
+Result #5
+Name of the venue: Bell Centre
+Venue Location: Montréal, Canada
+Date of the Event: 04/01/2019
+
+---------------------------------------------
+
+---------------------------------------------
+
+------@@@@@ Concert Information @@@@@------
+
+Result #6
+Name of the venue: Scotiabank Arena
+Venue Location: Toronto, Canada
+Date of the Event: 04/03/2019
+
+---------------------------------------------
+
+---------------------------------------------
+
+------@@@@@ Concert Information @@@@@------
+
+Result #7
+Name of the venue: Little Caesars Arena
+Venue Location: Detroit, United States
+Date of the Event: 04/05/2019
+
+---------------------------------------------
+
+---------------------------------------------
+
+------@@@@@ Concert Information @@@@@------
+
+Result #8
+Name of the venue: Coachella Valley Music and Arts Festival
+Venue Location: Indio, United States
+Date of the Event: 04/14/2019
+
+---------------------------------------------
+
+---------------------------------------------
+
+------@@@@@ Concert Information @@@@@------
+
+Result #9
+Name of the venue: Coachella Valley Music and Arts Festival
+Venue Location: Indio, United States
+Date of the Event: 04/21/2019
+
+---------------------------------------------
+
+---------------------------------------------
+
+------@@@@@ Concert Information @@@@@------
+
+Result #10
+Name of the venue: Rogers Place
+Venue Location: Edmonton, Canada
+Date of the Event: 04/25/2019
+
+---------------------------------------------
+
+---------------------------------------------
+
+-------@@@@@ Song Information @@@@@------
+
+Result #1
+Artist(s): Ed Sheeran
+Song name: Shape of You
+Preview song: https://p.scdn.co/mp3-preview/84462d8e1e4d0f9e5ccd06f0da390f65843774a2?cid=08d81bf62f5d40f89cba8cdf6c99a4bb
+Album: ÷ (Deluxe)
+
+---------------------------------------------
+
+---------------------------------------------
+
+-------@@@@@ Song Information @@@@@------
+
+Result #2
+Artist(s): Ed Sheeran
+Song name: Shape of You
+Preview song: https://p.scdn.co/mp3-preview/84462d8e1e4d0f9e5ccd06f0da390f65843774a2?cid=08d81bf62f5d40f89cba8cdf6c99a4bb
+Album: Shape of You
+
+---------------------------------------------
+
+---------------------------------------------
+
+-------@@@@@ Song Information @@@@@------
+
+Result #3
+Artist(s): Ed Sheeran
+Song name: Shape of You - Acoustic
+Preview song: https://p.scdn.co/mp3-preview/cb51ebbff7000a306fa82db4c8a9e22f353fa930?cid=08d81bf62f5d40f89cba8cdf6c99a4bb
+Album: Shape of You (Acoustic)
+
+---------------------------------------------
+
+---------------------------------------------
+
+-------@@@@@ Song Information @@@@@------
+
+Result #4
+Artist(s): Pentatonix
+Song name: Despacito x Shape Of You
+Preview song: https://p.scdn.co/mp3-preview/442d8fce3c6f11c4b947dbf736020896b7d871c0?cid=08d81bf62f5d40f89cba8cdf6c99a4bb
+Album: PTX Presents: Top Pop, Vol. I
+
+---------------------------------------------
+
+---------------------------------------------
+
+-------@@@@@ Song Information @@@@@------
+
+Result #5
+Artist(s): Our Last Night
+Song name: Shape of You - Rock
+Preview song: https://p.scdn.co/mp3-preview/58b161e20b8ce87922f884e6081bc31fe7ece599?cid=08d81bf62f5d40f89cba8cdf6c99a4bb
+Album: Shape of You (Rock)
+
+---------------------------------------------
+
+---------------------------------------------
+
+@@@@@ Movie Information @@@@@
+Title: The Avengers
+Released Year: 2012
+IMDB Rating: 8.1
+Produced Country: USA
+Langueage Movie: English, Russian, Hindi
+Plot: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+Actors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+
+---------------------------------------------
+
+---------------------------------------------
+
+-------@@@@@ Song Information @@@@@------
+
+Result #1
+Artist(s): Backstreet Boys
+Song name: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=08d81bf62f5d40f89cba8cdf6c99a4bb
+Album: The Hits--Chapter One
+
+---------------------------------------------
+
+---------------------------------------------
+
+-------@@@@@ Song Information @@@@@------
+
+Result #2
+Artist(s): Backstreet Boys
+Song name: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=08d81bf62f5d40f89cba8cdf6c99a4bb
+Album: Millennium
+
+---------------------------------------------
+
+---------------------------------------------
+
+-------@@@@@ Song Information @@@@@------
+
+Result #3
+Artist(s): Anthem Lights
+Song name: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=08d81bf62f5d40f89cba8cdf6c99a4bb
+Album: Covers Part IV
+
+---------------------------------------------
+
+---------------------------------------------
+
+-------@@@@@ Song Information @@@@@------
+
+Result #5
+Artist(s): "Weird Al" Yankovic
+Song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=08d81bf62f5d40f89cba8cdf6c99a4bb
+Album: Poodle Hat
+
+---------------------------------------------
+
+---------------------------------------------
+
+-------@@@@@ Song Information @@@@@------
+
+Result #4
+Artist(s): Tyler and Mark
+Song name: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=08d81bf62f5d40f89cba8cdf6c99a4bb
+Album: Beautiful Dreams
+
+---------------------------------------------
