@@ -1,12 +1,12 @@
 # liri-node-app
 
-##How to use this app
+## How to use this app
 
-###This app helps you to find concerts, songs, movies that you are interested in.
+### This app helps you to find concerts, songs, movies that you are interested in.
 
-###You type "node liri command yourSearch" from your terminal.
+### You type "node liri command yourSearch" from your terminal.
 
-####The command is one of followings.
+#### The command is one of followings.
 
  * concert-this
  * spotify-this-song
